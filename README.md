@@ -4,7 +4,7 @@ Generate WireGuard configurations for Cloudflare WARP.
 
 ## Web App
 
-**[https://lanrat.github.io/wireguard-warp-generator/](https://lanrat.github.io/wireguard-warp-generator/)**
+**[https://blesdmm.github.io/wireguard-warp-generator/](https://blesdmm.github.io/wireguard-warp-generator/)**
 
 A browser-based tool that generates configs entirely client-side. Features QR code for mobile import and customizable options.
 
